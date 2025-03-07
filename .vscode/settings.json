@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/5d94cdb0-9a94-4c77-8bb6-d4beb37e75b9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/azure-demo-cheese-finder-phattrieu",
+    "appService.deploySubpath": "."
+}
