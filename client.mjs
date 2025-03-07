@@ -5,7 +5,7 @@ var cheesesFound;
 var noOfCheeses;
 var gameHour;
 
-let hostAddress = "https://azure-demo-cheese-finder-phattrieu.azurewebsites.net/";
+let hostAddress = "https://azure-demo-phattrieu.azurewebsites.net/";
 
 let startUrl = hostAddress + "getstart.json";
 let getStyleUrl = hostAddress + "getstyle.json";
